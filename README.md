@@ -6,7 +6,7 @@ Este aplicativo é um exemplo de criação de páginas CRUD usando VueJS e acess
 
 A API usada neste exemplo é uma API Express 4.4.5 do Node.js
 
-# Run
+# Execução
     > npm run dev
     
 Navigation to http://localhost:8080 to view the site
