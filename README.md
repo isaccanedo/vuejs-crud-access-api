@@ -9,7 +9,7 @@ A API usada neste exemplo é uma API Express 4.4.5 do Node.js
 # Execução
     > npm run dev
     
-Navigation to http://localhost:8080 to view the site
+Navegue até o endereço http://localhost:8080 para visualizar o site
     
 # Start API
 
