@@ -13,7 +13,7 @@ Navegue até o endereço http://localhost:8080 para visualizar o site
     
 # Iniciar a API
 
-To start the API open your command terminal to this location and enter
+Para iniciar a API, abra seu terminal e digite o comando abaixo para subir o servidor
 
     > node server.js
     
