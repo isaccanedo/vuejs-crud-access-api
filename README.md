@@ -11,7 +11,7 @@ A API usada neste exemplo é uma API Express 4.4.5 do Node.js
     
 Navegue até o endereço http://localhost:8080 para visualizar o site
     
-# Start API
+# Iniciar a API
 
 To start the API open your command terminal to this location and enter
 
