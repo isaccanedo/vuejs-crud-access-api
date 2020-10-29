@@ -17,5 +17,5 @@ Para iniciar a API, abra seu terminal e digite o comando abaixo para subir o ser
 
     > node server.js
     
-API is now active on http://localhost:3000
+API agora está ativa em http://localhost:3000
    
