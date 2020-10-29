@@ -1,7 +1,7 @@
 # Aplicação de exemplo VueJS Crud
 Este aplicativo é um exemplo de criação de páginas CRUD usando VueJS e acessando dados por meio de uma API
 
-# Install
+# Instalação
     > npm install
 
 The API used in this example is a Node.js express API.
