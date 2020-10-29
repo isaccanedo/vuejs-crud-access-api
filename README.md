@@ -1,4 +1,4 @@
-# Aplicação de exemplo VueJS Crud
+# Aplicação CRUD de exemplo usando o VueJS
 Este aplicativo é um exemplo de criação de páginas CRUD usando VueJS e acessando dados por meio de uma API
 
 # Instalação
