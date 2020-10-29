@@ -4,7 +4,7 @@ Este aplicativo é um exemplo de criação de páginas CRUD usando VueJS e acess
 # Instalação
     > npm install
 
-The API used in this example is a Node.js express API.
+A API usada neste exemplo é uma API Express 4.4.5 do Node.js
 
 # Run
     > npm run dev
